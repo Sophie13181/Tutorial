@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -20,7 +20,6 @@
     <p>Open the YouTube in your browser.</p>
     <img src="YouTube.png"	alt="YouTube.png">
 	<img src="Youtube video.png" alt="Youtube video.png"> 
-  </section>
   </section>
 
   <section>
